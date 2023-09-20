@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huyHA9597
-- 👀 I’m currently junior .NET Backend engineer.
-- 🌱 I’m keen on learning .NET 5, React & Django, also trying to learn Rust when have free time.
+- 👀 I’m currently .NET Software Engineer.
+- 🌱 I’m keen on learning .NET, React & Actix, also trying to learn Axum if I have free time.
 - 📫 How to reach me: Email: <haanhuy5@gmail.com>
 
 <!---
