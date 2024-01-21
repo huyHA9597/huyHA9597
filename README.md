@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @huyHA9597
 - 👀 I’m currently .NET Software Engineer.
-- 🌱 I’m keen on learning .NET, React & Actix, also trying to learn Axum if I have free time.
+- 🌱 I’m keen on learning .NET.
+- Still learning Rust (Actix). Trying to learn Golang, too. Backend enthusiatist.
 - 📫 How to reach me: Email: <haanhuy5@gmail.com>
 
 <!---
